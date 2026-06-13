@@ -1,10 +1,6 @@
 # NeuroGenesis
 
 <p align="center">
-  <img src="assets/logo.png" width="180">
-</p>
-
-<p align="center">
   <b>Evolution, Neural Plasticity, and Genetic Assimilation in Volatile Environments</b>
 </p>
 
